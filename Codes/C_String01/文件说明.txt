@@ -1,0 +1,42 @@
+        C-字符串的容器
+
+1. 主要任务
+   根据程序的运行结果，完成4个待完成的字符串处理函数设计。
+
+2. 文件夹C_String01中的文件说明
+   C_String01.mdsp	新版MinGW Developer Studio工程文件
+   C_String01.msp	旧版MinGW Developer Studio工程文件（计算中心机房适用）
+   test01.c		含主函数的测试程序
+   C_String01.h		用户自定义的头文件（主要用于自定义函数声明）
+   C_String01.c		用户自定义的源程序文件（主要用于自定义函数定义）
+
+   C_String01.exe	完成程序后的可执行文件（供参考）
+
+3. 程序的运行结果
+===============================================
+C-String test. Your choice(1--4, 0-quit): 1
+in test1()
+str1: "Tom",    str2: "Jerry"
+str1: "Jerry",  str2: "Tom"
+return from test1()
+
+C-String test. Your choice(1--4, 0-quit): 2
+in test2()
+p1: "Tom",      p2: "Jerry"
+p1: "Jerry",    p2: "Tom"
+return from test2()
+
+C-String test. Your choice(1--4, 0-quit): 3
+in test3()
+str1: "Tom",    str2: "Jerry"
+str1: "Jerry",  str2: "Tom"
+return from test3()
+
+C-String test. Your choice(1--4, 0-quit): 4
+in test4()
+str1: "Tom",    str2: "Jerry"
+str1: "Tom & Jerry"
+return from test4()
+
+C-String test. Your choice(1--4, 0-quit): 0
+===============================================
